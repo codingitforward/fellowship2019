@@ -6,7 +6,7 @@ Meet the third cohort of Civic Digital Fellows: [Introducing the 2019 Civic Digi
 This repository features the slides our fellows presented at their end of summer Demo Day, held on August 8, 2019 at the Carnegie Institution for Science in Washington, D.C. 
 
 ### About the Fellows 
-**_Kindly note that some Fellows' presentations are not publicly accessible or the Fellow presented on a panel, so some biographies do not have a link._**
+**_Kindly note that if a Fellow's biography does not have a link, their work is not publicly available or they presented their accomplishments during a panel discussion._**
 
 **Brittney Atkinson-McFarlane** is a graduate student at New York University, where she is working on a Master’s in Integrated Digital Media. This summer, she worked as a Design Fellow at the General Services Administration supporting the visual design and user experience for Touchpoints, an internal survey tool, part of GSA’s Customer Experience Cross-Agency Platform (CX CAP) goal. | [Presentation](https://github.com/codingitforward/cdfdemoday2019/blob/master/Designing_Touchpoints_Survey_Tool.pdf)
 
