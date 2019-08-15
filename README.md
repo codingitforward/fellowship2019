@@ -84,7 +84,7 @@ This repository features the slides our fellows presented at their end of summer
 
 **Amit Rajesh** is a rising sophomore at Cornell University studying Computer Science and Chemistry. This summer, he worked as a Software Engineering Fellow at the National Institutes of Health, where he automated team processes related to the cloud and developed a website to educate users about cloud computing in biomedical research. | [Presentation](https://github.com/codingitforward/cdfdemoday2019/blob/master/Scaling_STRIDES_Commercial_Cloud_Biomedical_Research.pdf)
 
-**Vikram Rao** is a PhD candidate at The George Washington University, where he studies Systems Engineering. This summer, he worked as a Data Science Fellow at the Census Bureau studying and running experiments on the differential privacy algorithm that is used to protect confidential data at the agency. 
+**Vikram Rao** is a PhD candidate at The George Washington University, where he studies Systems Engineering. This summer, he worked as a Data Science Fellow at the Census Bureau studying and running experiments on the differential privacy algorithm that is used to protect confidential data at the agency. | [Presentation](https://github.com/codingitforward/cdfdemoday2019/blob/master/Regression_Analysis_of_Differential_Privacy_Algorithm.pdf)
 
 **Eric Richards** is a rising senior at the University of California, San Diego studying Design for Social Innovation and Cognitive Science. This summer, he worked as a Product Management Fellow at the General Services Administration as a member of 18F Strategy, where he co-led two 10x projects focused on non-traditional identity verification and PII collection, and conducted user research for the Consumer Financial Protection Bureau’s Paying for College tool.
 
@@ -96,7 +96,7 @@ This repository features the slides our fellows presented at their end of summer
 
 **Jay Sheth** is a rising junior at the University of North Carolina — Chapel Hill studying Computer Science and Political Science. This summer, he worked as a Product Management Fellow at Health and Human Services using data visualizations, theme analysis, and technical implementation to propel projects like Modernizing Medicare (USDS), Ignite Accelerator (CTO), and Software Asset Management (CIO). | [Presentation](https://github.com/codingitforward/cdfdemoday2019/blob/master/Innovation_Across_HHS.pdf)
 
-**Rahul Shukla** is a rising junior at Northwestern University studying Computer Science. This summer, he worked as a Data Science Fellow at the Census Bureau building a machine learning model that utilizes public data to generate industry classification (NAICS) codes for establishments in the Economic Census. 
+**Rahul Shukla** is a rising junior at Northwestern University studying Computer Science. This summer, he worked as a Data Science Fellow at the Census Bureau building a machine learning model that utilizes public data to generate industry classification (NAICS) codes for establishments in the Economic Census. | [Presentation](https://github.com/codingitforward/cdfdemoday2019/blob/master/Automating_Industry_Classification_for_Economic_Census.pdf)
 
 **Sophie Song** is a rising senior at Rochester Institute of Technology studying Computer Science. This summer, she worked as a Data Science Fellow at the Census Bureau crafting differential privacy tutorials most directly focused on helping researchers at Federal Statistical Research Data Centers implement noise injection algorithms on their research results to meet formal privacy guidelines. 
 
@@ -112,7 +112,7 @@ This repository features the slides our fellows presented at their end of summer
 
 **Josh Wolkoff** is a rising senior at the University of Rochester with a double major in Computer Science and Philosophy. This summer, he worked as a Software Engineering Fellow at the General Services Administration building a piece of reusable AWS infrastructure that will be used by new development teams to help integrate security into their development process. | [Presentation](https://github.com/codingitforward/cdfdemoday2019/blob/master/On_Demand_Cloud_Infrastructure.pdf)
 
-**Lan Zhang** is a rising junior at Harvard College studying Applied Mathematics in Computer Science. This summer, she worked as a Software Engineering Fellow at the Census Bureau using publicly available information to predict 6-digit North American Industry Classification System (NAICS) codes for business establishments in the Economic Census.
+**Lan Zhang** is a rising junior at Harvard College studying Applied Mathematics in Computer Science. This summer, she worked as a Software Engineering Fellow at the Census Bureau using publicly available information to predict 6-digit North American Industry Classification System (NAICS) codes for business establishments in the Economic Census. | [Presentation](https://github.com/codingitforward/cdfdemoday2019/blob/master/Automating_Industry_Classification_for_Economic_Census.pdf)
 
 **Daniel Zhao** is a rising junior at Yale College studying Global Affairs and Statistics & Data Science. This summer he worked as a Data Science Fellow at the Bureau of Labor Statistics, designing and developing a dashboard to centralize customer feedback from five different data sources and automate existing reporting processes, as well as research cloud transition plans.
 
