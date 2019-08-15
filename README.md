@@ -3,18 +3,20 @@ The Civic Digital Fellowship is the first of its kind data science and technolog
 
 Meet the third cohort of Civic Digital Fellows: [Introducing the 2019 Civic Digital Fellows](https://blog.codingitforward.com/introducing-the-2019-civic-digital-fellows-41469f28561d).
 
-This repository features the slides our fellows presented at their end of summer Demo Day, held on August 8, 2019 at the Carnegie Institution for Science in Washington, D.C.
+This repository features the slides our fellows presented at their end of summer Demo Day, held on August 8, 2019 at the Carnegie Institution for Science in Washington, D.C. 
 
 ### About the Fellows 
-**Brittney Atkinson-McFarlane** is a graduate student at New York University, where she is working on a Master’s in Integrated Digital Media. This summer, she worked as a Design Fellow at the General Services Administration supporting the visual design and user experience for Touchpoints, an internal survey tool, part of GSA’s Customer Experience Cross-Agency Platform (CX CAP) goal.
+**_Kindly note that some Fellows' presentations are not publicly accessible, and thus, are not linked below._**
 
-**Emma Brennan** is a recent graduate of Carnegie Mellon University, where she studied Design for Environments. This summer, she worked as a Design Fellow at the Census Bureau Open Innovation Labs helping to shape brand identity and design workshops for the Opportunity Project, an initiative promoting cross-sector collaboration to build digital services using open data.
+**Brittney Atkinson-McFarlane** is a graduate student at New York University, where she is working on a Master’s in Integrated Digital Media. This summer, she worked as a Design Fellow at the General Services Administration supporting the visual design and user experience for Touchpoints, an internal survey tool, part of GSA’s Customer Experience Cross-Agency Platform (CX CAP) goal. | [Presentation](https://github.com/codingitforward/cdfdemoday2019/blob/master/Designing_Touchpoints_Survey_Tool.pdf)
 
-**Courtney Brousseau** is a recent graduate of the University of California, Berkeley, where he studied Economics and Computer Science. This summer, he worked as a Software Engineering Fellow at the General Services Administration on Code.gov, building tools to track open source community contributions, adding analytics, and doing usability testing of a new prototype that he built.
+**Emma Brennan** is a recent graduate of Carnegie Mellon University, where she studied Design for Environments. This summer, she worked as a Design Fellow at the Census Bureau Open Innovation Labs helping to shape brand identity and design workshops for the Opportunity Project, an initiative promoting cross-sector collaboration to build digital services using open data. | [Presentation](https://github.com/codingitforward/cdfdemoday2019/blob/master/UX_Design_at_Census_Open_Innovation_Labs.pdf)
+
+**Courtney Brousseau** is a recent graduate of the University of California, Berkeley, where he studied Economics and Computer Science. This summer, he worked as a Software Engineering Fellow at the General Services Administration on Code.gov, building tools to track open source community contributions, adding analytics, and doing usability testing of a new prototype that he built. | [Presentation](https://github.com/codingitforward/cdfdemoday2019/blob/master/Data_Informed_Decisions_Code_Gov.pdf)
 
 **Johncarlo Cerna** is a rising senior at the University of Florida studying Computer Science. This summer, he worked as a Software Engineering Fellow at U.S. Citizenship and Immigration Services developing features for the software used by immigration officers to process and manage asylum cases.
 
-**Avena Cheng** is a rising senior at the University of California, Berkeley studying Data Science. This summer, she worked as a Data Science Fellow at the Bureau of Labor Statistics automating product reviews for Commodity Analysts working on the Consumer Price Index.
+**Avena Cheng** is a rising senior at the University of California, Berkeley studying Data Science. This summer, she worked as a Data Science Fellow at the Bureau of Labor Statistics automating product reviews for Commodity Analysts working on the Consumer Price Index. | [Presentation](https://github.com/codingitforward/cdfdemoday2019/blob/master/Automating_Product_Reviews_For_Consumer_Price_Index.pdf)
 
 **Vivian Cheung** is a recent graduate of California Polytechnic State University, San Luis Obispo, where she studied Liberal Arts and Engineering Studies. This summer, she worked as a Product Management Fellow at the National Institutes of Health designing trainings for evaluating assurance levels and authentication systems at the agency and creating a proposal to centralize IT procurement.
 
@@ -32,7 +34,7 @@ This repository features the slides our fellows presented at their end of summer
 
 **Jierui Fang** is a rising senior at the Massachusetts Institute of Technology studying Art and Design. This summer, she worked as a Design Fellow at U.S. Citizenship and Immigration Services conducting user research, creating prototypes, and running usability tests to design an MVP for a centralized refugee case management system.
 
-**David Frankel** is a rising sophomore at Washington University in St. Louis studying Computer Science. This summer, he worked as a Software Engineering Fellow at the National Institutes of Health contributing to the STRIDES Initiative by enabling access to biomedical data in the cloud and developing support for enforcement of best practices across the NCBI’s software engineering teams.
+**David Frankel** is a rising sophomore at Washington University in St. Louis studying Computer Science. This summer, he worked as a Software Engineering Fellow at the National Institutes of Health contributing to the STRIDES Initiative by enabling access to biomedical data in the cloud and developing support for enforcement of best practices across the NCBI’s software engineering teams. | [Presentation](https://github.com/codingitforward/cdfdemoday2019/blob/master/Cloud_Based_Biomedical_Infrastructure.pdf)
 
 **Sarah Frost** is a graduate student at the University of California, Santa Cruz studying Computational Media. This summer, she worked as a Software Engineering Fellow at the National Institutes of Health on the Cloud Services team compiling technical documentation and automating cloud functions using the Python API.
 
@@ -46,21 +48,21 @@ This repository features the slides our fellows presented at their end of summer
 
 **Somya Jain** is a rising senior at the University of California, Berkeley studying Cognitive Science, with an emphasis on Computational Modeling and Data Science. This summer, she worked as a Data Science Fellow at the Bureau of Labor Statistics improving an autoencoder that analyzes job tasks for the Office of Compensation and Working Conditions.
 
-**Vinesh Kannan** is a recent graduate of the Illinois Institute of Technology, where he studied Computer Science. This summer, he worked as a Data Science Fellow at the Bureau of Labor Statistics expanding the agency’s machine learning models for occupation classification to accommodate differences in industry terms and filter out state or employer-specific biases.
+**Vinesh Kannan** is a recent graduate of the Illinois Institute of Technology, where he studied Computer Science. This summer, he worked as a Data Science Fellow at the Bureau of Labor Statistics expanding the agency’s machine learning models for occupation classification to accommodate differences in industry terms and filter out state or employer-specific biases. | [Presentation](https://github.com/codingitforward/cdfdemoday2019/blob/master/Autocoding_Occupation_Data.pdf)
 
 **Noam Kantor** is completing his doctorate in Mathematics at Oxford University. This summer, he worked as a Data Science Fellow at the Census Bureau developing algorithmic tools for file lineage and data provenance at Census. Noam also worked on drawing actionable information from Census file access logs. 
 
 **Zhi Keng He** is a recent graduate of CUNY Hunter College, where he studied Geography. This summer, he worked as a Software Engineering Fellow at the Census Bureau improving developer documentation for Census data by creating an interactive and accessible website to enable more users to build applications and visualizations.
 
-**Sam Kim** is a rising junior at Duke University studying Biology and Computer Science. This summer, he worked as a Data Science Fellow at the National Institutes of Health analyzing the NIH-funded workforce and finding how many jobs are created by the agency’s $30 billion research grants.
+**Sam Kim** is a rising junior at Duke University studying Biology and Computer Science. This summer, he worked as a Data Science Fellow at the National Institutes of Health analyzing the NIH-funded workforce and finding how many jobs are created by the agency’s $30 billion research grants. | [Presentation](https://github.com/codingitforward/cdfdemoday2019/blob/master/Characterizing_the_NIH_Research_Workforce.pdf) 
 
 **Aditya Krishnaswamy** is a rising senior at the University of Georgia studying Statistics and Mathematics. This summer, he worked as a Data Science Fellow at Health and Human Services making HealthData.gov more user-friendly and contributing to ReImagine Data, an initiative focused on data sharing and collaboration across federal agencies. 
 
 **Ariel Langer** is a rising junior at the University of California, Berkeley studying Data Science. This summer, she worked as a Data Science Fellow at the National Institutes of Health populating missing data from National Eye Institute health records using optical character recognition. 
 
-**Olivia Lewke** is a rising senior at the University of California, Berkeley studying Data Science and English. This summer, she worked as a Data Science Fellow at the Bureau of Labor Statistics building an internal API that generates statistical sentences for the central time series BLS database.
+**Olivia Lewke** is a rising senior at the University of California, Berkeley studying Data Science and English. This summer, she worked as a Data Science Fellow at the Bureau of Labor Statistics building an internal API that generates statistical sentences for the central time series BLS database. | [Presentation](https://github.com/codingitforward/cdfdemoday2019/blob/master/Automating_BLS_News_Releases.pdf)
 
-**Michell Li** is a graduate student at Carnegie Mellon University, where she is obtaining her Master’s in Management Information Systems. This summer, she worked as a Data Science Fellow at the Bureau of Labor Statistics using machine learning techniques to automate coding assignments for the Consumer Expenditure Survey. 
+**Michell Li** is a graduate student at Carnegie Mellon University, where she is obtaining her Master’s in Management Information Systems. This summer, she worked as a Data Science Fellow at the Bureau of Labor Statistics using machine learning techniques to automate coding assignments for the Consumer Expenditure Survey. | [Presentation](https://github.com/codingitforward/cdfdemoday2019/blob/master/CES_Diary_Autocoder.pdf)
 
 **Jamie Liao** is a rising junior at the University of Southern California studying Media Arts and Practice at the School of Cinematic Arts. This summer, she worked as a Design Fellow at the Census Bureau to streamline cross-sector collaboration by improving the UI/UX of community-focused workshops, technology accelerators, and the visual identity of the Census Open Innovation Labs.
 
@@ -70,11 +72,11 @@ This repository features the slides our fellows presented at their end of summer
 
 **Emma Lurie** is a recent graduate of Wellesley College, where she studied Computer Science and Chinese Language & Culture. This summer, she worked as a Data Science Fellow at the Census Bureau developing an interactive internal tool that assists the Census Bureau’s Economic Indicator Division with analyses of their survey response rates.
 
-**Nik Marda** is a rising junior at Stanford University studying Computer Science and Political Science. This summer, he worked as a Product Management Fellow at the National Institutes of Health building tutorials for using NCBI cloud computing tools as well as launching a new website for these tutorials. 
+**Nik Marda** is a rising junior at Stanford University studying Computer Science and Political Science. This summer, he worked as a Product Management Fellow at the National Institutes of Health building tutorials for using NCBI cloud computing tools as well as launching a new website for these tutorials. | [Presentation](https://github.com/codingitforward/cdfdemoday2019/blob/master/Cloud_Based_Biomedical_Infrastructure.pdf)
 
 **Brandon Obas** is a recent graduate of the University of Pennsylvania where he studied Computer Science and Cognitive Science. This summer, he worked as a Product Management Fellow at the General Services Administration improving the usability of GSA’s API and coding software that makes it easier for API developers to create specifications. 
 
-**Carlos Ortega** is a is a rising senior at the University of California, Berkeley studying Data Science. This summer, he worked as a Data Science Fellow at the Census Bureau developing tools including a record-linkage web app to match frames and a web scraper to automate frame maintenance.
+**Carlos Ortega** is a is a rising senior at the University of California, Berkeley studying Data Science. This summer, he worked as a Data Science Fellow at the Census Bureau developing tools including a record-linkage web app to match frames and a web scraper to automate frame maintenance. | [Presentation](https://github.com/codingitforward/cdfdemoday2019/blob/master/Automating_Frame_Maintenance_and_Frame_Matching.pdf)
 
 **Trisha Prabhu** is a rising sophomore at Harvard College studying Government on the Tech Science Pathway. This summer, she worked as a Product Management Fellow at Health and Human Services, where she contributed to the KidneyX and LymeX initiatives by building scientific and technical frameworks for future medical devices in the kidney spaces, and spearheading a new clinical decision support software tool for public health emergencies and hazards.
 
