@@ -58,7 +58,7 @@ This repository features the slides our fellows presented at their end of summer
 
 **Aditya Krishnaswamy** is a rising senior at the University of Georgia studying Statistics and Mathematics. This summer, he worked as a Data Science Fellow at Health and Human Services making HealthData.gov more user-friendly and contributing to ReImagine Data, an initiative focused on data sharing and collaboration across federal agencies. 
 
-**Ariel Langer** is a rising junior at the University of California, Berkeley studying Data Science. This summer, she worked as a Data Science Fellow at the National Institutes of Health populating missing data from National Eye Institute health records using optical character recognition. 
+**Ariel Langer** is a rising junior at the University of California, Berkeley studying Data Science. This summer, she worked as a Data Science Fellow at the National Institutes of Health populating missing data from National Eye Institute health records using optical character recognition. | [Presentation](https://github.com/codingitforward/cdfdemoday2019/blob/master/Optical_Character_Recognition_to_Scrape_Biomedical_Data.pdf)
 
 **Olivia Lewke** is a rising senior at the University of California, Berkeley studying Data Science and English. This summer, she worked as a Data Science Fellow at the Bureau of Labor Statistics building an internal API that generates statistical sentences for the central time series BLS database. | [Presentation](Automating_BLS_News_Releases.pdf)
 
@@ -114,7 +114,7 @@ This repository features the slides our fellows presented at their end of summer
 
 **Lan Zhang** is a rising junior at Harvard College studying Applied Mathematics in Computer Science. This summer, she worked as a Software Engineering Fellow at the Census Bureau using publicly available information to predict 6-digit North American Industry Classification System (NAICS) codes for business establishments in the Economic Census. | [Presentation](Automating_Industry_Classification_for_Economic_Census.pdf)
 
-**Daniel Zhao** is a rising junior at Yale College studying Global Affairs and Statistics & Data Science. This summer he worked as a Data Science Fellow at the Bureau of Labor Statistics, designing and developing a dashboard to centralize customer feedback from five different data sources and automate existing reporting processes, as well as research cloud transition plans.
+**Daniel Zhao** is a rising junior at Yale College studying Global Affairs and Statistics & Data Science. This summer he worked as a Data Science Fellow at the Bureau of Labor Statistics, designing and developing a dashboard to centralize customer feedback from five different data sources and automate existing reporting processes, as well as research cloud transition plans. | [Presentation](https://github.com/codingitforward/cdfdemoday2019/blob/master/Integrating_Multiple_Sources_of_Customer_Feedback_Data.pdf)
 
 ### Contact
 Please contact [fellowship@codingitforward.com](mailto:fellowship@codingitforward.com) with any questions.
