@@ -56,7 +56,7 @@ This repository features the slides our fellows presented at their end of summer
 
 **Sam Kim** is a rising junior at Duke University studying Biology and Computer Science. This summer, he worked as a Data Science Fellow at the National Institutes of Health analyzing the NIH-funded workforce and finding how many jobs are created by the agency’s $30 billion research grants. | [Presentation](https://github.com/codingitforward/cdfdemoday2019/blob/master/Characterizing_the_NIH_Research_Workforce.pdf) 
 
-**Aditya Krishnaswamy** is a rising senior at the University of Georgia studying Statistics and Mathematics. This summer, he worked as a Data Science Fellow at Health and Human Services making HealthData.gov more user-friendly and contributing to ReImagine Data, an initiative focused on data sharing and collaboration across federal agencies. 
+**Aditya Krishnaswamy** is a rising senior at the University of Georgia studying Statistics and Mathematics. This summer, he worked as a Data Science Fellow at Health and Human Services making HealthData.gov more user-friendly and contributing to ReImagine Data, an initiative focused on data sharing and collaboration across federal agencies. | [Presentation](https://github.com/codingitforward/cdfdemoday2019/blob/master/Democratize_Data_at_HHS.pdf) 
 
 **Ariel Langer** is a rising junior at the University of California, Berkeley studying Data Science. This summer, she worked as a Data Science Fellow at the National Institutes of Health populating missing data from National Eye Institute health records using optical character recognition. | [Presentation](https://github.com/codingitforward/cdfdemoday2019/blob/master/Optical_Character_Recognition_to_Scrape_Biomedical_Data.pdf)
 
