@@ -32,7 +32,7 @@ This repository features the slides our fellows presented at their end of summer
 
 **Alison Dowski** is a rising junior at the University of California, Berkeley studying Computer Science. This summer, she worked as a Software Engineering Fellow at the General Services Administration on Login.gov’s app development team, designing and coding features and prototypes to better the user experience.
 
-**Jierui Fang** is a rising senior at the Massachusetts Institute of Technology studying Art and Design. This summer, she worked as a Design Fellow at U.S. Citizenship and Immigration Services conducting user research, creating prototypes, and running usability tests to design an MVP for a centralized refugee case management system. | [Presentation](Design_Refugee_Case_Management.pdf)
+**Jierui Fang** is a rising senior at the Massachusetts Institute of Technology studying Art and Design. This summer, she worked as a Design Fellow at U.S. Citizenship and Immigration Services conducting user research, creating prototypes, and running usability tests to design an MVP for a centralized refugee case management system.
 
 **David Frankel** is a rising sophomore at Washington University in St. Louis studying Computer Science. This summer, he worked as a Software Engineering Fellow at the National Institutes of Health contributing to the STRIDES Initiative by enabling access to biomedical data in the cloud and developing support for enforcement of best practices across the NCBI’s software engineering teams. | [Presentation](Cloud_Based_Biomedical_Infrastructure.pdf)
 
